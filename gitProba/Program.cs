@@ -6,9 +6,9 @@ namespace gitProba
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Helló Világ!");
+            Console.WriteLine("Hello World!");
 
-            Console.WriteLine("Új Kiírás..");
+            Console.WriteLine("New Post..");
         }
     }
 }
