@@ -9,6 +9,7 @@ namespace gitProba
             Console.WriteLine("Helló Világ!");
 
             Console.WriteLine("Új Kiírás..");
+            Console.WriteLine("Szerbusz Világ!");
         }
     }
 }
