@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.32126.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gitProba", "gitProba\gitProba.csproj", "{360316B8-CD84-452D-BE8E-4022B7824A85}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPAlapok", "OOPAlapok\OOPAlapok.csproj", "{B1F82D0D-1D65-4065-8BEC-68A3A1FCF04B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07", "07", "{13C6731C-E1C8-4BA3-A751-64A61BACC24B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,9 +19,17 @@ Global
 		{360316B8-CD84-452D-BE8E-4022B7824A85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{360316B8-CD84-452D-BE8E-4022B7824A85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{360316B8-CD84-452D-BE8E-4022B7824A85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1F82D0D-1D65-4065-8BEC-68A3A1FCF04B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1F82D0D-1D65-4065-8BEC-68A3A1FCF04B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1F82D0D-1D65-4065-8BEC-68A3A1FCF04B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1F82D0D-1D65-4065-8BEC-68A3A1FCF04B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{360316B8-CD84-452D-BE8E-4022B7824A85} = {13C6731C-E1C8-4BA3-A751-64A61BACC24B}
+		{B1F82D0D-1D65-4065-8BEC-68A3A1FCF04B} = {13C6731C-E1C8-4BA3-A751-64A61BACC24B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2F05E34C-7B75-4235-91F5-853CDDBCC9FE}
