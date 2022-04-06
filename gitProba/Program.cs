@@ -6,7 +6,7 @@ namespace gitProba
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Szerbusz Világ!");
+            Console.WriteLine("Helló Világ!");
         }
     }
 }
